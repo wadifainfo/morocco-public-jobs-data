@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Morocco public jobs data: civil-service salaries, CRMEF seats and exam-paper index"
+type: dataset
+authors:
+  - name: "Wadifa Info"
+    website: "https://www.wadifa-info.com"
+doi: 10.5281/zenodo.23078291
+url: "https://www.wadifa-info.com/fr/grille-salariale-fonction-publique-maroc"
+repository-code: "https://github.com/wadifainfo/morocco-public-jobs-data"
+license: CC-BY-4.0
+date-released: 2026-10-05
+keywords: [Morocco, civil service, salaries, public jobs, concours, CRMEF, open data]
