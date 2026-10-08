@@ -19,6 +19,9 @@ Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 ## Cite
 > Wadifa Info (2026). *Morocco public jobs data*. https://doi.org/10.5281/zenodo.23078291
 
+## License
+Data: [CC BY 4.0](LICENSE). Credit as: "Source: Wadifa Info, https://www.wadifa-info.com" with a link to the dataset or page used, and say if you changed the data.
+
 ## Updates and corrections
 Figures follow the live pages on wadifa-info.com, which are updated when a new official text is published. Found an error? Open an issue with a link to the official source.
 
