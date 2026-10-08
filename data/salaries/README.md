@@ -23,5 +23,16 @@ Net monthly salary in Moroccan dirhams (MAD) for 370 grades of the Moroccan civi
 - The mean is across grades, not across civil servants; it is not the average civil-servant salary.
 - Some corps appear under two spellings in the source and are kept as published.
 
+
+## Pay by step (échelon): `morocco_civil_service_pay_by_echelon_2026.csv`
+
+Gross and net monthly pay (MAD) for **every échelon** of 307 grades (39 corps), 2394 rows, added 8 October 2026.
+
+- **Method and settings:** same official simulator and same settings as the table above (single, no children, no mutuelle, higher residence-allowance zone), one simulation per échelon, run on 8 October 2026.
+- **Checks:** a grade is included only when its first-échelon net equals the by-grade table above to within 1 MAD, and when its net never falls by more than 2% from one échelon to the next. Five grades are left out because the official simulator itself returns such a drop.
+- **Columns:** `grade_id`, `grade_fr`, `grade_ar`, `corps_fr`, `echelon` (`ex` = exceptional step), `indice`, `brut_mad`, `net_mad`.
+- **Online calculator:** https://www.wadifa-info.com/fr/calcul-des-salaires-fonction-publique-maroc (grade + échelon). Also served at https://www.wadifa-info.com/data/salaires-par-echelon-fonction-publique-maroc.csv
+- **Licence:** CC BY 4.0, cite "Wadifa Info, salaire brut et net par échelon, fonction publique marocaine 2026".
+
 ---
 Français : salaire net mensuel (MAD) de 370 grades de la fonction publique marocaine, par corps. Licence CC BY 4.0, source Wadifa Info.
