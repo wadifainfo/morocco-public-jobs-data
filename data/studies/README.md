@@ -1,5 +1,7 @@
 # Wadifa Info data studies (2026-10-08)
 
+DOI: [10.5281/zenodo.23241447](https://doi.org/10.5281/zenodo.23241447)
+
 Four small tables behind the studies published on wadifa-info.com. Figures are frozen at the publication date so that citations stay valid.
 
 | File | Study page | Sources |

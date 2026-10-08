@@ -14,7 +14,7 @@ Each folder has its own README with the columns, the official source and the lim
 Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 
 ## Also published on
-- Zenodo (DOI): https://doi.org/10.5281/zenodo.23078291
+- Zenodo (DOI): https://doi.org/10.5281/zenodo.23078291 (salaries); https://doi.org/10.5281/zenodo.23241447 (data studies 2026)
 - Hugging Face: https://huggingface.co/datasets/wadifainfo/morocco-civil-service-salaries-2026
 
 ## Cite
