@@ -8,6 +8,7 @@ Open datasets on public-sector employment in Morocco, compiled from official sou
 | Civil-service gross and net pay by step (échelon), 2026 | 307 grades, 2394 rows | [`data/salaries`](data/salaries) | [Simulation salaire fonction publique](https://www.wadifa-info.com/fr/calcul-des-salaires-fonction-publique-maroc) |
 | CRMEF teacher-training seats 2024/2025, by specialty and region | 14,450 seats | [`data/crmef-seats`](data/crmef-seats) | [مناصب مباراة التعليم حسب التخصص](https://www.wadifa-info.com/مناصب-مباراة-التعليم-حسب-التخصص) |
 | Index of past public-sector exam papers, 1988–2026 | 2,585 papers | [`data/exam-papers`](data/exam-papers) | [Modèles de concours](https://www.wadifa-info.com/fr/modeles-concours) |
+| Public-service recruitment notices, Aug 2024 – Sep 2026 (one row per concours) | 8,223 concours, 103,089 posts | [`data/concours`](data/concours) | [Qui recrute dans la fonction publique ?](https://www.wadifa-info.com/fr/qui-recrute-fonction-publique-maroc) |
 | Data studies 2026: posts per 100k by region, entry salary by diploma, recruitment fragmentation 2012–2025, 2026 vs 2025 | 4 tables | [`data/studies`](data/studies) | [Statistiques du recrutement](https://www.wadifa-info.com/fr/statistiques-recrutement-fonction-publique-maroc) |
 
 Each folder has its own README with the columns, the official source and the limits of the data. Files are UTF-8 CSV.
