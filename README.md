@@ -21,6 +21,9 @@ Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 - Hugging Face: https://huggingface.co/datasets/wadifainfo/morocco-civil-service-salaries-2026
 
 ## Cite
+
+Recruitment notices + glossary: [doi:10.5281/zenodo.23296468](https://doi.org/10.5281/zenodo.23296468) · Interactive demo: [Hugging Face Space](https://huggingface.co/spaces/wadifainfo/morocco-public-jobs-salaries)
+
 > Wadifa Info (2026). *Morocco public jobs data*. https://doi.org/10.5281/zenodo.23078291
 
 ## License
