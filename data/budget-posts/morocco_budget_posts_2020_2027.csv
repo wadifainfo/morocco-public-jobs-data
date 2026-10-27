@@ -1,0 +1,64 @@
+table,year,department_fr,department_ar,posts,status,source
+total,2020,Total,المجموع,23312,law,Budget-posts article of the finance law (Bulletin officiel)
+total,2021,Total,المجموع,21256,law,Budget-posts article of the finance law (Bulletin officiel)
+total,2022,Total,المجموع,26860,bill,Budget-posts article of the finance law (Bulletin officiel)
+total,2023,Total,المجموع,28212,law,Budget-posts article of the finance law (Bulletin officiel)
+total,2024,Total,المجموع,30034,law,Budget-posts article of the finance law (Bulletin officiel)
+total,2025,Total,المجموع,28906,law,Budget-posts article of the finance law (Bulletin officiel)
+total,2026,Total,المجموع,36895,law,Budget-posts article of the finance law (Bulletin officiel)
+total,2027,Total,المجموع,34454,bill,Budget-posts article of the finance law (Bulletin officiel)
+department,2023,Intérieur,الداخلية,7544,law,Budget-posts article of the finance law
+department,2024,Intérieur,الداخلية,7944,law,Budget-posts article of the finance law
+department,2025,Intérieur,الداخلية,7744,bill,Budget-posts article of the finance law
+department,2026,Intérieur,الداخلية,13000,law,Budget-posts article of the finance law
+department,2027,Intérieur,الداخلية,14200,bill,Budget-posts article of the finance law
+department,2023,Santé et protection sociale,الصحة والحماية الاجتماعية,5500,law,Budget-posts article of the finance law
+department,2024,Santé et protection sociale,الصحة والحماية الاجتماعية,5500,law,Budget-posts article of the finance law
+department,2025,Santé et protection sociale,الصحة والحماية الاجتماعية,6500,bill,Budget-posts article of the finance law
+department,2026,Santé et protection sociale,الصحة والحماية الاجتماعية,8000,law,Budget-posts article of the finance law
+department,2027,Santé et protection sociale,الصحة والحماية الاجتماعية,5400,bill,Budget-posts article of the finance law
+department,2023,Défense nationale,إدارة الدفاع الوطني,7000,law,Budget-posts article of the finance law
+department,2024,Défense nationale,إدارة الدفاع الوطني,7000,law,Budget-posts article of the finance law
+department,2025,Défense nationale,إدارة الدفاع الوطني,5792,bill,Budget-posts article of the finance law
+department,2026,Défense nationale,إدارة الدفاع الوطني,5500,law,Budget-posts article of the finance law
+department,2027,Défense nationale,إدارة الدفاع الوطني,5500,bill,Budget-posts article of the finance law
+department,2023,Économie et Finances,الاقتصاد والمالية,1200,law,Budget-posts article of the finance law
+department,2024,Économie et Finances,الاقتصاد والمالية,2600,law,Budget-posts article of the finance law
+department,2025,Économie et Finances,الاقتصاد والمالية,2600,bill,Budget-posts article of the finance law
+department,2026,Économie et Finances,الاقتصاد والمالية,2600,law,Budget-posts article of the finance law
+department,2027,Économie et Finances,الاقتصاد والمالية,2460,bill,Budget-posts article of the finance law
+department,2023,DGAPR (prisons),المندوبية العامة لإدارة السجون,1000,law,Budget-posts article of the finance law
+department,2024,DGAPR (prisons),المندوبية العامة لإدارة السجون,1000,law,Budget-posts article of the finance law
+department,2025,DGAPR (prisons),المندوبية العامة لإدارة السجون,1000,bill,Budget-posts article of the finance law
+department,2026,DGAPR (prisons),المندوبية العامة لإدارة السجون,2020,law,Budget-posts article of the finance law
+department,2027,DGAPR (prisons),المندوبية العامة لإدارة السجون,1500,bill,Budget-posts article of the finance law
+department,2023,Enseignement supérieur,التعليم العالي,2349,law,Budget-posts article of the finance law
+department,2024,Enseignement supérieur,التعليم العالي,2349,law,Budget-posts article of the finance law
+department,2025,Enseignement supérieur,التعليم العالي,1759,bill,Budget-posts article of the finance law
+department,2026,Enseignement supérieur,التعليم العالي,1759,law,Budget-posts article of the finance law
+department,2027,Enseignement supérieur,التعليم العالي,1920,bill,Budget-posts article of the finance law
+department,2023,CSPJ (pouvoir judiciaire),المجلس الأعلى للسلطة القضائية,50,law,Budget-posts article of the finance law
+department,2024,CSPJ (pouvoir judiciaire),المجلس الأعلى للسلطة القضائية,450,law,Budget-posts article of the finance law
+department,2025,CSPJ (pouvoir judiciaire),المجلس الأعلى للسلطة القضائية,350,bill,Budget-posts article of the finance law
+department,2026,CSPJ (pouvoir judiciaire),المجلس الأعلى للسلطة القضائية,640,law,Budget-posts article of the finance law
+department,2027,CSPJ (pouvoir judiciaire),المجلس الأعلى للسلطة القضائية,340,bill,Budget-posts article of the finance law
+department,2023,Habous,الأوقاف والشؤون الإسلامية,400,law,Budget-posts article of the finance law
+department,2024,Habous,الأوقاف والشؤون الإسلامية,400,law,Budget-posts article of the finance law
+department,2025,Habous,الأوقاف والشؤون الإسلامية,400,bill,Budget-posts article of the finance law
+department,2026,Habous,الأوقاف والشؤون الإسلامية,400,law,Budget-posts article of the finance law
+department,2027,Habous,الأوقاف والشؤون الإسلامية,400,bill,Budget-posts article of the finance law
+department,2023,Éducation nationale (ministère),التربية الوطنية (الوزارة),374,law,Budget-posts article of the finance law
+department,2024,Éducation nationale (ministère),التربية الوطنية (الوزارة),384,law,Budget-posts article of the finance law
+department,2025,Éducation nationale (ministère),التربية الوطنية (الوزارة),364,bill,Budget-posts article of the finance law
+department,2026,Éducation nationale (ministère),التربية الوطنية (الوزارة),379,law,Budget-posts article of the finance law
+department,2027,Éducation nationale (ministère),التربية الوطنية (الوزارة),364,bill,Budget-posts article of the finance law
+department,2023,Justice,العدل,505,law,Budget-posts article of the finance law
+department,2024,Justice,العدل,155,law,Budget-posts article of the finance law
+department,2025,Justice,العدل,205,bill,Budget-posts article of the finance law
+department,2026,Justice,العدل,300,law,Budget-posts article of the finance law
+department,2027,Justice,العدل,300,bill,Budget-posts article of the finance law
+department,2023,Réserve du Chef du gouvernement,حصة يوزعها رئيس الحكومة,460,law,Budget-posts article of the finance law
+department,2024,Réserve du Chef du gouvernement,حصة يوزعها رئيس الحكومة,500,law,Budget-posts article of the finance law
+department,2025,Réserve du Chef du gouvernement,حصة يوزعها رئيس الحكومة,500,bill,Budget-posts article of the finance law
+department,2026,Réserve du Chef du gouvernement,حصة يوزعها رئيس الحكومة,500,law,Budget-posts article of the finance law
+department,2027,Réserve du Chef du gouvernement,حصة يوزعها رئيس الحكومة,500,bill,Budget-posts article of the finance law

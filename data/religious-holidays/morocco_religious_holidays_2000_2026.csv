@@ -1,0 +1,150 @@
+gregorian_date,hijri_date,holiday,days_off,saudi_date,offset_days_vs_saudi,confidence,source_url
+2000-01-08,1 Shawwal 1420,eid_al_fitr,2,2000-01-07,1,high,https://astronomycenter.net/icop/shw20.html
+2000-03-17,10 Dhu al-Hijja 1420,eid_al_adha,2,2000-03-16,1,high,https://astronomycenter.net/icop/hej20.html
+2000-04-06,1 Muharram 1421,islamic_new_year,1,2000-04-06,0,high,https://astronomycenter.net/icop/muh21.html
+2000-06-15,12 Rabi al-Awwal 1421,mawlid,2,2000-06-14,1,high,https://astronomycenter.net/icop/raa21.html
+2000-11-28,1 Ramadan 1421,ramadan_start,0,2000-11-27,1,high,https://astronomycenter.net/icop/ram21.html
+2000-12-27,1 Shawwal 1421,eid_al_fitr,2,2000-12-27,0,high,https://astronomycenter.net/icop/shw21.html
+2001-03-06,10 Dhu al-Hijja 1421,eid_al_adha,2,2001-03-05,1,high,https://astronomycenter.net/icop/hej21.html
+2001-03-27,1 Muharram 1422,islamic_new_year,1,2001-03-26,1,high,https://astronomycenter.net/icop/muh22.html
+2001-06-05,12 Rabi al-Awwal 1422,mawlid,2,2001-06-04,1,high,https://astronomycenter.net/icop/raa22.html
+2001-11-17,1 Ramadan 1422,ramadan_start,0,2001-11-16,1,high,https://astronomycenter.net/icop/ram22.html
+2001-12-17,1 Shawwal 1422,eid_al_fitr,2,2001-12-16,1,high,https://astronomycenter.net/icop/shw22.html
+2002-02-23,10 Dhu al-Hijja 1422,eid_al_adha,2,2002-02-22,1,high,https://astronomycenter.net/icop/hej22.html
+2002-03-16,1 Muharram 1423,islamic_new_year,1,2002-03-15,1,high,https://astronomycenter.net/icop/muh23.html
+2002-05-25,12 Rabi al-Awwal 1423,mawlid,2,2002-05-24,1,high,https://astronomycenter.net/icop/raa23.html
+2002-11-06,1 Ramadan 1423,ramadan_start,0,2002-11-06,0,high,https://astronomycenter.net/icop/ram23.html
+2002-12-06,1 Shawwal 1423,eid_al_fitr,2,2002-12-05,1,high,https://astronomycenter.net/icop/shw23.html
+2003-02-12,10 Dhu al-Hijja 1423,eid_al_adha,2,2003-02-11,1,high,https://astronomycenter.net/icop/hej23.html
+2003-03-05,1 Muharram 1424,islamic_new_year,1,2003-03-04,1,high,https://astronomycenter.net/icop/muh24.html
+2003-11-26,1 Shawwal 1424,eid_al_fitr,2,2003-11-25,1,high,https://astronomycenter.net/icop/shw24.html
+2004-02-01,10 Dhu al-Hijja 1424,eid_al_adha,2,2004-02-01,0,high,https://astronomycenter.net/icop/hej24.html
+2004-02-22,1 Muharram 1425,islamic_new_year,1,2004-02-21,1,high,https://astronomycenter.net/icop/muh25.html
+2004-10-15,1 Ramadan 1425,ramadan_start,0,2004-10-15,0,high,https://astronomycenter.net/icop/ram25.html
+2004-11-14,1 Shawwal 1425,eid_al_fitr,2,2004-11-13,1,high,https://astronomycenter.net/icop/shw25.html
+2005-01-21,10 Dhu al-Hijja 1425,eid_al_adha,2,2005-01-20,1,high,https://astronomycenter.net/icop/hej25.html
+2005-02-10,1 Muharram 1426,islamic_new_year,1,2005-02-10,0,high,https://astronomycenter.net/icop/muh26.html
+2005-04-21,12 Rabi al-Awwal 1426,mawlid,2,2005-04-21,0,high,https://astronomycenter.net/icop/raa26.html
+2005-10-05,1 Ramadan 1426,ramadan_start,0,2005-10-04,1,high,https://astronomycenter.net/icop/ram26.html
+2005-11-04,1 Shawwal 1426,eid_al_fitr,2,2005-11-03,1,high,https://astronomycenter.net/icop/shw26.html
+2006-01-11,10 Dhu al-Hijja 1426,eid_al_adha,2,2006-01-10,1,high,https://astronomycenter.net/icop/hej26.html
+2006-01-31,1 Muharram 1427,islamic_new_year,1,2006-01-31,0,high,https://astronomycenter.net/icop/muh27.html
+2006-04-11,12 Rabi al-Awwal 1427,mawlid,2,2006-04-10,1,high,https://astronomycenter.net/icop/raa27.html
+2006-09-24,1 Ramadan 1427,ramadan_start,0,2006-09-23,1,high,https://astronomycenter.net/icop/ram27.html
+2006-10-24,1 Shawwal 1427,eid_al_fitr,2,2006-10-23,1,high,https://astronomycenter.net/icop/shw27.html
+2006-12-31,10 Dhu al-Hijja 1427,eid_al_adha,2,2006-12-30,1,high,https://astronomycenter.net/icop/hej27.html
+2007-01-21,1 Muharram 1428,islamic_new_year,1,2007-01-20,1,high,https://astronomycenter.net/icop/muh28.html
+2007-04-01,12 Rabi al-Awwal 1428,mawlid,2,2007-03-31,1,medium,https://astronomycenter.net/icop/raa28.html
+2007-09-14,1 Ramadan 1428,ramadan_start,0,2007-09-13,1,high,https://astronomycenter.net/icop/ram28.html
+2007-10-13,1 Shawwal 1428,eid_al_fitr,2,2007-10-12,1,high,https://astronomycenter.net/icop/shw28.html
+2007-12-21,10 Dhu al-Hijja 1428,eid_al_adha,2,2007-12-19,2,medium,https://astronomycenter.net/icop/hej28.html
+2008-01-10,1 Muharram 1429,islamic_new_year,1,2008-01-10,0,high,https://astronomycenter.net/icop/muh29.html
+2008-03-20,12 Rabi al-Awwal 1429,mawlid,2,2008-03-20,0,high,https://www.yabiladi.com/article-culture-661.html
+2008-09-02,1 Ramadan 1429,ramadan_start,0,2008-09-01,1,high,https://astronomycenter.net/icop/ram29.html
+2008-10-01,1 Shawwal 1429,eid_al_fitr,2,2008-09-30,1,high,https://astronomycenter.net/icop/shw29.html
+2008-12-09,10 Dhu al-Hijja 1429,eid_al_adha,2,2008-12-08,1,high,https://astronomycenter.net/icop/hej29.html
+2008-12-29,1 Muharram 1430,islamic_new_year,1,2008-12-29,0,high,https://astronomycenter.net/icop/muh30.html
+2009-03-10,12 Rabi al-Awwal 1430,mawlid,2,2009-03-09,1,high,https://aujourdhui.ma/?p=127791
+2009-08-22,1 Ramadan 1430,ramadan_start,0,2009-08-22,0,high,https://astronomycenter.net/icop/ram30.html
+2009-09-21,1 Shawwal 1430,eid_al_fitr,2,2009-09-20,1,high,https://astronomycenter.net/icop/shw30.html
+2009-11-28,10 Dhu al-Hijja 1430,eid_al_adha,2,2009-11-27,1,medium,https://astronomycenter.net/icop/hej30.html
+2009-12-18,1 Muharram 1431,islamic_new_year,1,2009-12-18,0,medium,https://www.lavieeco.com/?p=28355
+2010-02-27,12 Rabi al-Awwal 1431,mawlid,2,2010-02-26,1,high,https://www.bladi.net/al-mawlid-annabawi.html
+2010-08-12,1 Ramadan 1431,ramadan_start,0,2010-08-11,1,high,https://astronomycenter.net/icop/ram31.html
+2010-09-10,1 Shawwal 1431,eid_al_fitr,2,2010-09-10,0,high,https://astronomycenter.net/icop/shw31.html
+2010-11-17,10 Dhu al-Hijja 1431,eid_al_adha,2,2010-11-16,1,high,https://www.infomediaire.net/?p=6976
+2010-12-07,1 Muharram 1432,islamic_new_year,1,2010-12-07,0,high,https://www.bladi.net/fatih-mouharam.html
+2011-02-16,12 Rabi al-Awwal 1432,mawlid,2,2011-02-15,1,medium,https://astronomycenter.net/icop/raa32.html
+2011-08-02,1 Ramadan 1432,ramadan_start,0,2011-08-01,1,high,https://astronomycenter.net/icop/ram32.html
+2011-08-31,1 Shawwal 1432,eid_al_fitr,2,2011-08-30,1,high,https://astronomycenter.net/icop/shw32.html
+2011-11-07,10 Dhu al-Hijja 1432,eid_al_adha,2,2011-11-06,1,high,https://lematin.ma/express/2011/Sacrifice_L-Aid-Al-Adha-celebre-le-7-novembre/158231/amp
+2011-11-27,1 Muharram 1433,islamic_new_year,1,2011-11-27,0,high,https://astronomycenter.net/icop/muh33.html
+2012-02-05,12 Rabi al-Awwal 1433,mawlid,2,2012-02-04,1,high,https://www.bladi.net/aid-al-mawlid-annabawi.html
+2012-07-21,1 Ramadan 1433,ramadan_start,0,2012-07-20,1,high,https://astronomycenter.net/icop/ram33.html
+2012-08-20,1 Shawwal 1433,eid_al_fitr,2,2012-08-19,1,high,https://astronomycenter.net/icop/shw33.html
+2012-10-26,10 Dhu al-Hijja 1433,eid_al_adha,2,2012-10-26,0,high,https://www.bladi.net/aid-al-adha-2012-maroc.html
+2012-11-16,1 Muharram 1434,islamic_new_year,1,2012-11-15,1,high,https://www.bladi.net/fatih-moharam-1434-vendredi-maroc.html
+2013-01-24,12 Rabi al-Awwal 1434,mawlid,2,2013-01-24,0,high,https://www.bladi.net/aid-al-mawlid-24-janvier-maroc.html
+2013-07-10,1 Ramadan 1434,ramadan_start,0,2013-07-10,0,high,https://astronomycenter.net/icop/ram34.html
+2013-08-09,1 Shawwal 1434,eid_al_fitr,2,2013-08-08,1,high,https://astronomycenter.net/icop/shw34.html
+2013-10-16,10 Dhu al-Hijja 1434,eid_al_adha,2,2013-10-15,1,high,https://www.infomediaire.net/?p=30965
+2013-11-05,1 Muharram 1435,islamic_new_year,1,2013-11-05,0,high,https://astronomycenter.net/icop/muh35.html
+2014-01-14,12 Rabi al-Awwal 1435,mawlid,2,2014-01-13,1,high,https://medias24.com/2014/01/03/aid-al-mawlid-celebre-le-14-janvier-2014-au-maroc/
+2014-06-29,1 Ramadan 1435,ramadan_start,0,2014-06-29,0,high,https://medias24.com/2014/06/27/ramadan-commence-dimanche-au-maroc-officiel/
+2014-07-28,,extra_day_off,1,,,medium,https://medias24.com/2014/07/24/lundi-prochain-jour-ferie-dans-le-secteur-public/
+2014-07-29,1 Shawwal 1435,eid_al_fitr,2,2014-07-28,1,high,https://telquel.ma/2014/07/27/officiel-maroc-celebre-aid-el-fitr-mardi-29-juillet_1411480
+2014-10-05,10 Dhu al-Hijja 1435,eid_al_adha,2,2014-10-04,1,high,"https://www.bladi.net/aid-al-adha-2014-maroc,40317.html"
+2015-01-04,12 Rabi al-Awwal 1436,mawlid,2,2015-01-03,1,high,https://medias24.com/2014/12/23/aid-al-mawlid-au-maroc-le-4-janvier/
+2015-06-18,1 Ramadan 1436,ramadan_start,0,2015-06-18,0,medium,"https://www.bladi.net/ramadan-maroc-debut,42346.html"
+2015-07-17,,extra_day_off,1,,,medium,"https://www.bladi.net/vendredi-17-juillet-2015-jour-ferie-maroc,42554.html"
+2015-07-18,1 Shawwal 1436,eid_al_fitr,2,2015-07-17,1,high,https://medias24.com/2015/07/16/aid-al-fitr-samedi-18-juillet-au-maroc-officiel/
+2015-09-24,10 Dhu al-Hijja 1436,eid_al_adha,2,2015-09-24,0,high,"https://www.bladi.net/aid-al-adha-2015-maroc,43040.html"
+2015-10-15,1 Muharram 1437,islamic_new_year,1,2015-10-14,1,high,https://fr.le360.ma/societe/le-nouvel-an-de-lhegire-1437-celebre-jeudi-15-octobre-au-maroc-54247/
+2015-12-24,12 Rabi al-Awwal 1437,mawlid,2,2015-12-23,1,medium,"https://www.bladi.net/aid-al-mawlid-annabawi-maroc,43877.html"
+2016-06-07,1 Ramadan 1437,ramadan_start,0,2016-06-06,1,medium,"https://www.bladi.net/debut-ramadan-maroc,45496.html"
+2016-07-06,1 Shawwal 1437,eid_al_fitr,2,2016-07-06,0,high,https://medias24.com/2016/07/05/aid-al-fitr-mercredi-6-juillet-2016-au-maroc-officiel/
+2016-07-08,,extra_day_off,1,,,medium,"https://www.bladi.net/aid-al-fitr-maroc-mercredi,45737.html"
+2016-09-12,10 Dhu al-Hijja 1437,eid_al_adha,2,2016-09-12,0,high,https://medias24.com/2016/09/03/maroc-laid-al-adha-lundi-12-septembre-officiel/
+2016-10-03,1 Muharram 1438,islamic_new_year,1,2016-10-02,1,high,https://fr.le360.ma/societe/jour-ferie-le-1er-moharram-sera-lundi-89587/
+2016-12-12,12 Rabi al-Awwal 1438,mawlid,2,2016-12-11,1,high,https://fr.le360.ma/societe/aid-al-mawlid-celebre-le-lundi-12-decembre-97679/
+2017-05-27,1 Ramadan 1438,ramadan_start,0,2017-05-27,0,high,https://fr.le360.ma/societe/officiel-samedi-sera-le-1er-jour-du-ramadan-120669/
+2017-06-26,1 Shawwal 1438,eid_al_fitr,2,2017-06-25,1,high,https://fr.le360.ma/societe/aid-al-fitr-celebre-au-maroc-lundi-26-juin-124893/
+2017-09-01,10 Dhu al-Hijja 1438,eid_al_adha,2,2017-09-01,0,high,https://fr.le360.ma/societe/officiel-voici-la-date-de-celebration-de-laid-al-adha-au-maroc-132301/
+2017-09-22,1 Muharram 1439,islamic_new_year,1,2017-09-21,1,high,https://medias24.com/2017/09/20/le-1er-moharram-vendredi-22-septembre-officiel/
+2017-12-01,12 Rabi al-Awwal 1439,mawlid,2,2017-11-30,1,high,https://fr.le360.ma/societe/voici-la-date-de-laid-al-mawlid-143741/
+2018-05-17,1 Ramadan 1439,ramadan_start,0,2018-05-17,0,high,https://medias24.com/2018/05/16/jeudi-17-mai-est-le-premier-jour-du-mois-de-ramadan-ministere-des-habous/
+2018-06-15,1 Shawwal 1439,eid_al_fitr,2,2018-06-15,0,high,https://www.infomediaire.net/officiel-aid-al-fitr-celebre-vendredi-au-maroc/
+2018-08-22,10 Dhu al-Hijja 1439,eid_al_adha,2,2018-08-21,1,high,https://fr.le360.ma/societe/officiel-voici-la-date-de-la-celebration-de-laid-al-adha-au-maroc-172161/
+2018-09-11,1 Muharram 1440,islamic_new_year,1,2018-09-11,0,high,https://medias24.com/2018/09/10/le-1er-moharram-mardi-11-septembre-2018-au-maroc-officiel/
+2018-11-20,12 Rabi al-Awwal 1440,mawlid,2,2018-11-20,0,high,https://medias24.com/2018/11/08/aid-al-mawlid-le-mardi-20-novembre-officiel/
+2019-05-07,1 Ramadan 1440,ramadan_start,0,2019-05-06,1,high,https://medias24.com/2019/05/05/ramadan-debutera-mardi-7-mai-au-maroc-officiel/
+2019-06-05,1 Shawwal 1440,eid_al_fitr,2,2019-06-04,1,high,https://medias24.com/2019/06/04/aid-al-fitr-2019-celebre-le-mercredi-5-juin-au-maroc-officiel/
+2019-06-07,,extra_day_off,1,,,high,"https://www.bladi.net/maroc-bonne-nouvelle-fonctionnaires,56357.html"
+2019-08-12,10 Dhu al-Hijja 1440,eid_al_adha,2,2019-08-11,1,high,https://fr.le360.ma/societe/officiel-aid-al-adha-sera-celebre-le-lundi-12-aout-195570/
+2019-09-01,1 Muharram 1441,islamic_new_year,1,2019-08-31,1,high,https://fr.hespress.com/92664-le-1er-moharram-de-la-nouvelle-annee-de-lhegire-1441-correspondra-au-dimanche-1er-septembre-2019.html
+2019-11-10,12 Rabi al-Awwal 1441,mawlid,2,2019-11-09,1,high,https://fr.le360.ma/societe/officiel-aid-al-mawlid-annabaoui-celebre-le-10-novembre-au-maroc-201292/
+2020-04-25,1 Ramadan 1441,ramadan_start,0,2020-04-24,1,high,https://fr.hespress.com/141440-le-mois-de-ramadan-commence-samedi-au-maroc.html
+2020-05-24,1 Shawwal 1441,eid_al_fitr,2,2020-05-24,0,high,https://fr.le360.ma/societe/laid-el-fitr-celebre-ce-dimanche-24-mai-au-maroc-215860
+2020-07-31,10 Dhu al-Hijja 1441,eid_al_adha,2,2020-07-31,0,high,https://medias24.com/aid-al-adha-sera-fete-le-vendredi-31-juillet-2020-officiel-12058.html
+2020-08-21,1 Muharram 1442,islamic_new_year,1,2020-08-20,1,high,https://medias24.com/2020/08/19/le-1er-moharram-nouvel-an-de-lhegire-vendredi-21-aout-2020-officiel/
+2020-10-29,12 Rabi al-Awwal 1442,mawlid,2,2020-10-29,0,high,https://en.hespress.com/11933-11933.html
+2021-04-14,1 Ramadan 1442,ramadan_start,0,2021-04-13,1,high,https://fr.hespress.com/199000-mercredi-premier-jour-du-ramadan-au-maroc.html
+2021-05-13,1 Shawwal 1442,eid_al_fitr,2,2021-05-13,0,high,https://fr.hespress.com/204286-204286.html
+2021-07-21,10 Dhu al-Hijja 1442,eid_al_adha,2,2021-07-20,1,high,https://www.mapnews.ma/en/print/100808
+2021-08-10,1 Muharram 1443,islamic_new_year,1,2021-08-09,1,high,https://fr.hespress.com/218596-218596.html
+2021-10-19,12 Rabi al-Awwal 1443,mawlid,2,2021-10-18,1,high,https://medias24.com/2021/10/07/officiel-aid-al-mawlid-sera-fete-le-19-octobre-au-maroc/
+2022-04-03,1 Ramadan 1443,ramadan_start,0,2022-04-02,1,high,https://fr.hespress.com/256456-dimanche-1er-jour-du-mois-de-ramadan-au-maroc.html
+2022-05-02,1 Shawwal 1443,eid_al_fitr,2,2022-05-02,0,high,https://fr.le360.ma/societe/aid-al-fitr-celebre-ce-lundi-2-mai-2022-au-maroc-259358/
+2022-07-10,10 Dhu al-Hijja 1443,eid_al_adha,2,2022-07-09,1,high,https://medias24.com/2022/06/29/officiel-aid-al-adha-sera-celebre-le-10-juillet-au-maroc/
+2022-07-30,1 Muharram 1444,islamic_new_year,1,2022-07-30,0,high,https://medias24.com/2022/07/29/le-1er-moharram-nouvel-an-de-lhegire-samedi-30-juillet-2022-officiel/
+2022-10-09,12 Rabi al-Awwal 1444,mawlid,2,2022-10-08,1,high,https://medias24.com/2022/09/26/aid-al-mawlid-1444-sera-celebre-le-dimanche-9-octobre-2022-officiel/
+2023-03-23,1 Ramadan 1444,ramadan_start,0,2023-03-23,0,high,https://telquel.ma/instant-t/2023/03/22/jeudi-23-mars-premier-jour-du-mois-de-ramadan-au-maroc_1805856/
+2023-04-22,1 Shawwal 1444,eid_al_fitr,2,2023-04-21,1,high,https://medias24.com/2023/04/20/officiel-aid-al-fitr-sera-fete-samedi-22-avril-2023/
+2023-04-24,,extra_day_off,1,,,medium,"https://www.bladi.net/aid-fitr-maroc-jour-conge-supplementaire,101479.html"
+2023-06-29,10 Dhu al-Hijja 1444,eid_al_adha,2,2023-06-28,1,high,https://medias24.com/2023/06/18/voici-la-date-de-aid-al-adha-2023-1444-officiel/
+2023-07-19,1 Muharram 1445,islamic_new_year,1,2023-07-19,0,high,https://medias24.com/2023/07/18/le-1er-moharram-1445-correspond-au-mercredi-19-juillet-2023-officiel/
+2023-09-28,12 Rabi al-Awwal 1445,mawlid,2,2023-09-27,1,high,https://medias24.com/2023/09/15/aid-al-mawlid-sera-celebre-le-28-septembre-officiel/
+2024-01-14,,yennayer,1,,,high,https://www.fnh.ma/article/actualites-marocaines/gouvernement-jours-feries-maroc
+2024-03-12,1 Ramadan 1445,ramadan_start,0,2024-03-11,1,high,https://telquel.ma/instant-t/2024/03/10/ramadan-debutera-officiellement-le-mardi-12-mars_1861015/
+2024-04-10,1 Shawwal 1445,eid_al_fitr,2,2024-04-10,0,high,https://medias24.com/2024/04/09/officiel-aid-al-fitr-sera-fete-ce-mercredi-10-avril-2024-au-maroc/
+2024-04-12,,extra_day_off,1,,,high,https://fr.le360.ma/societe/aid-al-fitr-le-gouvernement-decrete-le-vendredi-12-avril-jour-ferie_6KTVWNS6U5BGDM4ZZO5KIURGYU/
+2024-06-17,10 Dhu al-Hijja 1445,eid_al_adha,2,2024-06-16,1,high,https://medias24.com/2024/06/07/officiel-aid-al-adha-1445-sera-celebre-le-17-juin-2024/
+2024-07-07,1 Muharram 1446,islamic_new_year,1,2024-07-07,0,high,https://en.yabiladi.com/articles/details/151592/morocco-observe-moharram-1446-sunday.html
+2024-09-16,12 Rabi al-Awwal 1446,mawlid,2,2024-09-15,1,high,https://fr.le360.ma/societe/aid-al-mawlid-annabaoui-sera-celebre-au-maroc-le-lundi-16-septembre_FXBW4PDIWFCWHCBEWZWZQSBIW4/
+2025-01-14,,yennayer,1,,,high,https://maroc.ma/fr/actualites/celebration-du-nouvel-amazigh-un-evenement-majeur-refletant-la-haute-sollicitude-royale-envers-la
+2025-03-02,1 Ramadan 1446,ramadan_start,0,2025-03-01,1,high,https://medias24.com/2025/02/28/ramadan-debute-ce-dimanche-2-mars-2025-au-maroc-officiel/
+2025-03-31,1 Shawwal 1446,eid_al_fitr,2,2025-03-30,1,high,https://fr.hespress.com/417581-aid-al-fitr-celebre-lundi-31-mars-au-maroc.html
+2025-06-07,10 Dhu al-Hijja 1446,eid_al_adha,2,2025-06-06,1,high,https://fr.hespress.com/426178-officiel-aid-al-adha-celebre-le-samedi-7-juin-au-maroc.html
+2025-06-09,,extra_day_off,1,,,high,https://www.akhbarona.com/mobile/national/406760.html
+2025-06-27,1 Muharram 1447,islamic_new_year,1,2025-06-26,1,high,https://fr.hespress.com/430819-430819.html
+2025-09-05,12 Rabi al-Awwal 1447,mawlid,2,2025-09-04,1,high,https://telquel.ma/instant-t/2025/08/25/aid-al-mawlid-celebre-le-vendredi-5-septembre_1947410/
+2025-10-31,,unity_day,0,,,high,https://www.maroc.ma/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/sahb-aljlalt-yqrr-jl-31-aktwbr-mn-kl-snt-yda-wtnya-tht-asm-yd-alwhdt-blagh-mn-aldywan-almlky
+2026-01-14,,yennayer,1,,,high,https://www.fnh.ma/article/actualites-marocaines/gouvernement-jours-feries-maroc
+2026-02-19,1 Ramadan 1447,ramadan_start,0,2026-02-18,1,high,https://telquel.ma/instant-t/2026/02/18/jeudi-19-fevrier-1er-jour-du-mois-de-ramadan-au-maroc_1975833/
+2026-03-20,1 Shawwal 1447,eid_al_fitr,2,2026-03-20,0,high,https://telquel.ma/instant-t/2026/03/19/aid-al-fitr-celebre-vendredi-au-maroc-ministere-des-habous-et-des-affaires-islamiques_1979776/
+2026-03-23,,extra_day_off,1,,,high,https://fr.hespress.com/465753-aid-al-fitr-conge-exceptionnel-lundi-23-mars-au-maroc.html
+2026-05-27,10 Dhu al-Hijja 1447,eid_al_adha,2,2026-05-27,0,high,https://medias24.com/2026/05/17/aid-al-adha-sera-celebre-le-mercredi-27-mai-2026-officiel-1679147/
+2026-05-29,,extra_day_off,1,,,high,https://medias24.com/2026/05/22/conge-exceptionnel-vendredi-29-mai-dans-ladministration-1685013/
+2026-06-17,1 Muharram 1448,islamic_new_year,1,2026-06-16,1,high,https://snrtnews.com/fr/article/le-1er-moharram-du-nouvel-an-de-lhegire-1448-correspond-au-mercredi-17-juin-153811
+2026-08-25,12 Rabi al-Awwal 1448,mawlid,2,2026-08-25,0,high,https://snrtnews.com/fr/article/le-1er-rabie-i-1448-correspond-au-vendredi-14-aout-aid-al-mawlid-annabaoui-celebre-le-mardi
+2026-10-31,,unity_day,1,,,high,https://www.maroc.ma/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/sahb-aljlalt-yqrr-jl-31-aktwbr-mn-kl-snt-yda-wtnya-tht-asm-yd-alwhdt-blagh-mn-aldywan-almlky
