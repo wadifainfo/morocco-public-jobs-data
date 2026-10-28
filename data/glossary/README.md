@@ -4,7 +4,7 @@
 - **grade** (489): job grades. 307 come from the official salary simulator (simulation.mmsp.gov.ma). The others come from recruitment notices.
 - **employer** (435): ministries, agencies, universities, hospitals, provinces and communes.
 
-Columns: `type`, `arabic`, `french`, `source`.
+Columns: `type`, `arabic`, `french`, `source`, `url`. `url` is the term's page on wadifa-info.com: the salary page of the grade, or the page listing the employer's recruitment exams (651 rows; empty when no page exists, checked against the live site map on 2026-10-28).
 
 **How it was built**
 - Recruitment notices are those published on emploi-public.ma from August 2024 to September 2026; see `../concours/`.
