@@ -19,6 +19,10 @@ Each folder has its own README with the columns, the official source and the lim
 
 Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 
+## Live API and MCP server
+- Free JSON API (no key, CC BY 4.0): https://www.wadifa-info.com/en/api, spec at https://www.wadifa-info.com/openapi.json
+- MCP server for AI agents (Claude, ChatGPT, Cursor): `https://www.wadifa-info.com/mcp` (Streamable HTTP, no key), listed in the official MCP registry as `com.wadifa-info.www/morocco-public-jobs`
+
 ## Also published on
 - Zenodo (DOI): https://doi.org/10.5281/zenodo.23078291 (salaries); https://doi.org/10.5281/zenodo.23241447 (data studies 2026)
 - Hugging Face: https://huggingface.co/wadifainfo (salaries, recruitment notices, exam-paper index, QCM, budget posts, CRMEF seats, minimum wage, holiday dates)
