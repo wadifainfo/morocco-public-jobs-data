@@ -13,13 +13,14 @@ Open datasets on public-sector employment in Morocco, compiled from official sou
 | Data studies 2026: posts per 100k by region, entry salary by diploma, recruitment fragmentation 2012–2025, 2026 vs 2025 | 4 tables | [`data/studies`](data/studies) | [Statistiques du recrutement](https://www.wadifa-info.com/fr/statistiques-recrutement-fonction-publique-maroc) |
 | Minimum wage (SMIG/SMAG) history, 1971–2026, with decree and Bulletin officiel per change | 35 changes | [`data/minimum-wage`](data/minimum-wage) | [Historique du SMIG au Maroc](https://www.wadifa-info.com/fr/historique-smig-maroc) |
 | Budget posts created by each finance law, 2020–2027, total and by department | 8 years, 11 departments | [`data/budget-posts`](data/budget-posts) | [Postes budgétaires](https://www.wadifa-info.com/fr/postes-budgetaires-maroc) |
-| Religious holiday dates observed in Morocco, 2000–2026, with the Saudi date | 149 rows | [`data/religious-holidays`](data/religious-holidays) | [Dates des fêtes religieuses](https://www.wadifa-info.com/fr/dates-fetes-religieuses-maroc-historique) |
+| Religious holiday dates observed in Morocco, 2000–2026, with the Saudi date | 149 rows | [`data/religious-holidays`](data/religious-holidays) | [Dates des fêtes religieuses](https://www.wadifa-info.com/fr/dates-fetes-religieuses-maroc-historique) · [English](https://www.wadifa-info.com/en/morocco-islamic-holiday-dates-2000-2026) |
 
 Each folder has its own README with the columns, the official source and the limits of the data. Files are UTF-8 CSV.
 
 Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 
 ## Live API and MCP server
+- Embeddable widgets (iframe, free): https://www.wadifa-info.com/widget/jours-feries (next public holidays, ?lang=en|ar), https://www.wadifa-info.com/widget/vacances-scolaires (next school breaks, ?lang=ar)
 - Free JSON API (no key, CC BY 4.0): https://www.wadifa-info.com/en/api, spec at https://www.wadifa-info.com/openapi.json
 - MCP server for AI agents (Claude, ChatGPT, Cursor): `https://www.wadifa-info.com/mcp` (Streamable HTTP, no key), listed in the official MCP registry as `com.wadifa-info.www/morocco-public-jobs`
 
