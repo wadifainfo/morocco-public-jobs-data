@@ -19,6 +19,16 @@ Each folder has its own README with the columns, the official source and the lim
 
 Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 
+## Analysis built on this data
+
+- [Net pay by grade under the 2027 finance bill (bill, not law)](https://www.wadifa-info.com/fr/augmentation-salaire-2027-par-grade)
+- [2027 income-tax simulator](https://www.wadifa-info.com/fr/simulateur-ir-2027-maroc)
+- [Time from notice to results, by employer](https://www.wadifa-info.com/fr/delai-resultats-concours-maroc)
+- [Public-sector posts per 100,000 inhabitants, by region](https://www.wadifa-info.com/fr/emploi-public-par-region)
+- [Exam language, from the notices](https://www.wadifa-info.com/fr/langue-epreuves-concours)
+- [Civil service in figures](https://www.wadifa-info.com/fr/fonction-publique-maroc-en-chiffres)
+- [Time in Morocco: GMT since 20 September 2026](https://www.wadifa-info.com/en/morocco-time-zone)
+
 ## Live API and MCP server
 - Embeddable widgets (iframe, free): https://www.wadifa-info.com/widget/jours-feries (next public holidays, ?lang=en|ar), https://www.wadifa-info.com/widget/vacances-scolaires (next school breaks, ?lang=ar)
 - Free JSON API (no key, CC BY 4.0): https://www.wadifa-info.com/en/api, spec at https://www.wadifa-info.com/openapi.json
