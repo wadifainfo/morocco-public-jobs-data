@@ -1,6 +1,6 @@
 # Index of Moroccan public-sector exam papers
 
-An index of **4,314 past exam papers** (مباريات / concours) for jobs in the Moroccan public sector and for entrance to public schools, years 1988–2026. **2,224 of them have a worked correction.** Each row points to the paper's page (Arabic and French), where the PDF can be viewed.
+An index of **4,862 past exam papers** (مباريات / concours) for jobs in the Moroccan public sector and for entrance to public schools, years 1988–2026. **2,224 of them have a worked correction.** Each row points to the paper's page (Arabic and French), where the PDF can be viewed.
 
 | Column | Meaning |
 |---|---|
