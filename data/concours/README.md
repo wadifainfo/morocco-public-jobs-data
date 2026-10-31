@@ -21,7 +21,7 @@ One row per concours (recruitment exam) announced on the official public-jobs po
 | `region_fr`, `city_fr` | Place of work when the notice gives one |
 | `diplomas_fr`, `specialties_fr` | Required diplomas and specialties, as published |
 | `recruitment_type_fr` | Concours, test, selection on file… |
-| `url` | Notice page with the link to the official announcement |
+| `url`, `url_ar` | Notice page in French and in Arabic, with the link to the official announcement |
 
 ## Findings from this table
 See the study [Qui recrute dans la fonction publique ?](https://www.wadifa-info.com/fr/qui-recrute-fonction-publique-maroc): State administrations run 14% of concours but offer 66% of posts; the median application window is 16 days (the legal minimum is 15, décret 2-11-621 art. 4).
