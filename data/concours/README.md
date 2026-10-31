@@ -1,6 +1,6 @@
-# Morocco public-service recruitment notices, August 2024 – September 2026
+# Morocco public-service recruitment notices, August 2024 – October 2026
 
-One row per concours (recruitment exam) announced on the official public-jobs portal emploi-public.ma between 1 August 2024 and 30 September 2026, as collected by Wadifa Info.
+One row per concours (recruitment exam) announced on the official public-jobs portal emploi-public.ma between 1 August 2024 and 31 October 2026, as collected by Wadifa Info.
 
 - **Rows:** 8,582 concours, 104,875 posts
 - **One row per concours:** later convocation, oral and result notices published under the same link are not counted again.
