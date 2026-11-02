@@ -14,6 +14,7 @@ Open datasets on public-sector employment in Morocco, compiled from official sou
 | Minimum wage (SMIG/SMAG) history, 1971–2026, with decree and Bulletin officiel per change | 35 changes | [`data/minimum-wage`](data/minimum-wage) | [Historique du SMIG au Maroc](https://www.wadifa-info.com/fr/historique-smig-maroc) |
 | Budget posts created by each finance law, 2020–2027, total and by department | 8 years, 11 departments | [`data/budget-posts`](data/budget-posts) | [Postes budgétaires](https://www.wadifa-info.com/fr/postes-budgetaires-maroc) |
 | Religious holiday dates observed in Morocco, 2000–2026, with the Saudi date | 149 rows | [`data/religious-holidays`](data/religious-holidays) | [Dates des fêtes religieuses](https://www.wadifa-info.com/fr/dates-fetes-religieuses-maroc-historique) · [English](https://www.wadifa-info.com/en/morocco-islamic-holiday-dates-2000-2026) |
+| Open concours snapshot, 2 November 2026 (one row per open concours) | 193 concours, 70 employers | [`data/concours-open`](data/concours-open) | [Concours et emplois publics au Maroc](https://www.wadifa-info.com/fr/concours-emplois-publics-maroc) |
 
 Each folder has its own README with the columns, the official source and the limits of the data. Files are UTF-8 CSV.
 
