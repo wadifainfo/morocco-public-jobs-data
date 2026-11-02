@@ -19,6 +19,8 @@ Each folder has its own README with the columns, the official source and the lim
 
 Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 
+For a thesis or a research project, start with the [data catalogue](https://www.wadifa-info.com/fr/donnees-memoire-pfe-fonction-publique): variable dictionary, ready-made citations and direct CSV links ([Arabic version](https://www.wadifa-info.com/بيانات-مفتوحة-لمذكرات-التخرج)).
+
 ## Analysis built on this data
 
 - [Net pay by grade under the 2027 finance bill (bill, not law)](https://www.wadifa-info.com/fr/augmentation-salaire-2027-par-grade)
