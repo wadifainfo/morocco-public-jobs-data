@@ -11,6 +11,8 @@ An index of **4,862 past exam papers** (مباريات / concours) for jobs in t
 | `year` | Exam year |
 | `has_correction` | 1 if the page has a worked correction |
 | `url_ar`, `url_fr` | Paper page |
+| `quiz_questions` | Number of questions in the interactive QCM built from this paper (empty when there is none) |
+| `quiz_url_ar`, `quiz_url_fr` | Interactive QCM: practice, timed exam, random 20, review of mistakes. Answers come only from the published correction or the official key printed on the paper |
 
 - This is an **index only**: no paper text is included. The papers were set by the public bodies named in each row; most come from official websites, emploi-public.ma and the Concours National Commun (CNC).
 - **Browse by exam family:** https://www.wadifa-info.com/fr/modeles-concours (Arabic: https://www.wadifa-info.com/نماذج-مباريات)
