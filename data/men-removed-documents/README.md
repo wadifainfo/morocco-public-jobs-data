@@ -15,3 +15,4 @@ Copies come from the Internet Archive snapshots of the official URLs, unchanged 
 
 - Also on Hugging Face: [wadifainfo/morocco-men-removed-documents-archive](https://huggingface.co/datasets/wadifainfo/morocco-men-removed-documents-archive)
 - Licence of this index: CC BY 4.0. Page: [Documents officiels du ministère archivés](https://www.wadifa-info.com/fr/documents-officiels-men-archives)
+- DOI: [10.5281/zenodo.24391657](https://doi.org/10.5281/zenodo.24391657)

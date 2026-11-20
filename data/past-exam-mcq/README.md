@@ -16,3 +16,4 @@
 
 - Also on Hugging Face: [wadifainfo/morocco-past-exam-papers-mcq](https://huggingface.co/datasets/wadifainfo/morocco-past-exam-papers-mcq)
 - Licence: CC BY 4.0. Source: [QCM des concours, Wadifa Info](https://www.wadifa-info.com/fr/qcm-concours)
+- DOI: [10.5281/zenodo.24391655](https://doi.org/10.5281/zenodo.24391655)
