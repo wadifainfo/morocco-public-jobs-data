@@ -7,7 +7,7 @@ Open datasets on public-sector employment in Morocco, compiled from official sou
 | Civil-service net salaries by grade, 2026 | 370 grades, 71 corps | [`data/salaries`](data/salaries) | [Grille salariale de la fonction publique](https://www.wadifa-info.com/fr/grille-salariale-fonction-publique-maroc) |
 | Civil-service gross and net pay by step (échelon), 2026 | 307 grades, 2394 rows | [`data/salaries`](data/salaries) | [Simulation salaire fonction publique](https://www.wadifa-info.com/fr/calcul-des-salaires-fonction-publique-maroc) |
 | CRMEF teacher-training seats 2024/2025, by specialty and region | 14,450 seats | [`data/crmef-seats`](data/crmef-seats) | [مناصب مباراة التعليم حسب التخصص](https://www.wadifa-info.com/مناصب-مباراة-التعليم-حسب-التخصص) |
-| Index of past public-sector exam papers, 1988–2026, with links to 27 interactive QCMs | 4,862 papers | [`data/exam-papers`](data/exam-papers) | [Modèles de concours](https://www.wadifa-info.com/fr/modeles-concours) · [QCM des concours](https://www.wadifa-info.com/fr/qcm-concours) |
+| Index of past public-sector exam papers, 1988–2026, with links to 27 interactive QCMs | 5,189 papers | [`data/exam-papers`](data/exam-papers) | [Modèles de concours](https://www.wadifa-info.com/fr/modeles-concours) · [QCM des concours](https://www.wadifa-info.com/fr/qcm-concours) |
 | School practice tests with full corrections and printable PDFs, 5th primary to Tronc commun (فروض محروسة مع التصحيح) | 138 tests | [`data/practice-tests`](data/practice-tests) | [Devoirs surveillés corrigés](https://www.wadifa-info.com/fr/devoirs-surveilles-corriges) |
 | Real past-exam MCQs (civil service and teachers), Arabic / French / English, with answer source | 1,575 questions, 44 papers | [`data/past-exam-mcq`](data/past-exam-mcq) | [QCM des concours](https://www.wadifa-info.com/fr/qcm-concours) |
 | Ministry of Education documents removed from men.gov.ma (2025 exam frameworks, concours descriptions), dead URL → working copy | 146 documents | [`data/men-removed-documents`](data/men-removed-documents) | [Documents officiels archivés](https://www.wadifa-info.com/fr/documents-officiels-men-archives) |
@@ -19,8 +19,13 @@ Open datasets on public-sector employment in Morocco, compiled from official sou
 | Religious holiday dates observed in Morocco, 2000–2026, with the Saudi date | 149 rows | [`data/religious-holidays`](data/religious-holidays) | [Dates des fêtes religieuses](https://www.wadifa-info.com/fr/dates-fetes-religieuses-maroc-historique) · [English](https://www.wadifa-info.com/en/morocco-islamic-holiday-dates-2000-2026) |
 | Open concours snapshot, 2 November 2026 (one row per open concours) | 193 concours, 70 employers | [`data/concours-open`](data/concours-open) | [Concours et emplois publics au Maroc](https://www.wadifa-info.com/fr/concours-emplois-publics-maroc) |
 | Exam results timing: days from deadline to written, oral and final lists, by stage and employer (Aug–Oct 2026) | 4 stages, 59 employers | [`data/results-timing`](data/results-timing) | [Délai des résultats des concours](https://www.wadifa-info.com/fr/delai-resultats-concours-maroc) |
+| Upcoming public recruitment exams with exam date (snapshot 25 Nov 2026, refreshed monthly) | 364 exams, 22,373 posts | [`data/upcoming-exams`](data/upcoming-exams) | [Calendrier des concours](https://www.wadifa-info.com/fr/calendrier-concours-maroc) |
+| Professional-aptitude exams of Moroccan communes (امتحانات الكفاءة المهنية للجماعات): papers by grade and the 25 recurring themes | 158 papers, 25 themes | [`data/commune-exam-topics`](data/commune-exam-topics) | [نماذج امتحانات الكفاءة المهنية للجماعات الترابية](https://www.wadifa-info.com/نماذج-مباريات/امتحانات-الكفاءة-المهنية/الجماعات-الترابية) |
+| Organic Law 113-14 on communes, Arabic text article by article | 283 articles | [`data/law-113-14`](data/law-113-14) | [Examens d'aptitude des communes](https://www.wadifa-info.com/نماذج-مباريات/امتحانات-الكفاءة-المهنية/الجماعات-الترابية) |
+| Moroccan embassies and consulates abroad, with consular district | 161 posts | [`data/diplomatic-posts`](data/diplomatic-posts) | [Consulats et ambassades du Maroc](https://www.wadifa-info.com/fr/consulats-ambassades-maroc-etranger) |
+| OFPPT course documents catalogue (module, trade, year, link) | 739 documents | [`data/ofppt-documents`](data/ofppt-documents) | [Cours OFPPT PDF](https://www.wadifa-info.com/fr/cours-ofppt-pdf) |
 
-Each folder has its own README with the columns, the official source and the limits of the data. Files are UTF-8 CSV.
+Each folder has its own README with the columns, the official source and the limits of the data. Files are UTF-8 CSV or JSON Lines.
 
 Website: https://wadifainfo.github.io/morocco-public-jobs-data/
 
