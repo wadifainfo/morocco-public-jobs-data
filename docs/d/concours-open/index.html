@@ -1,0 +1,93 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Morocco open public-service concours: snapshot of 2 November 2026 — Morocco public jobs data</title><meta name="description" content="The recruitment exams (concours) still open for applications on 2 November 2026, as listed by Wadifa Info from notices on the official portal emploi-public.ma. Each row links the notice page, in French and in Arabic. For the full history, see data/concours.">
+<link rel="canonical" href="https://wadifainfo.github.io/morocco-public-jobs-data/d/concours-open/"><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Morocco open public-service concours: snapshot of 2 November 2026", "description": "The recruitment exams (concours) still open for applications on 2 November 2026, as listed by Wadifa Info from notices on the official portal emploi-public.ma. Each row links the notice page, in French and in Arabic. For the full history, see data/concours.", "url": "https://wadifainfo.github.io/morocco-public-jobs-data/d/concours-open/", "sameAs": "https://github.com/wadifainfo/morocco-public-jobs-data/tree/main/data/concours-open", "license": "https://creativecommons.org/licenses/by/4.0/", "isAccessibleForFree": true, "spatialCoverage": "Morocco", "creator": {"@type": "Organization", "name": "Wadifa Info", "url": "https://www.wadifa-info.com/"}, "includedInDataCatalog": {"@type": "DataCatalog", "name": "Morocco public jobs data", "url": "https://wadifainfo.github.io/morocco-public-jobs-data/"}, "distribution": [{"@type": "DataDownload", "encodingFormat": "text/csv", "contentUrl": "https://github.com/wadifainfo/morocco-public-jobs-data/raw/main/data/concours-open/open-2026-11-02.csv"}]}</script><style>:root{--bg:#fff;--fg:#1d2329;--mut:#5b6670;--line:#e3e7eb;--acc:#0b6b4f;--soft:#f4f7f6}
+@media (prefers-color-scheme:dark){:root{--bg:#111518;--fg:#e6eaed;--mut:#9aa5ae;--line:#2a3238;--acc:#4cc59a;--soft:#182025}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans Arabic",sans-serif}
+main{max-width:880px;margin:0 auto;padding:24px 16px 64px}h1{font-size:1.7rem;line-height:1.25}h2{font-size:1.2rem;margin-top:32px}a{color:var(--acc)}
+.tw{overflow-x:auto;margin:12px 0}table{border-collapse:collapse;width:100%;font-size:.88rem}th,td{border-bottom:1px solid var(--line);padding:5px 7px;text-align:start;vertical-align:top}
+th{color:var(--mut)}code{background:var(--soft);padding:1px 4px;border-radius:4px}.dl a{display:inline-block;margin:4px 8px 4px 0;padding:6px 12px;border:1px solid var(--acc);border-radius:6px;text-decoration:none}
+nav{font-size:.9rem;color:var(--mut)}footer{margin-top:40px;color:var(--mut);font-size:.9rem;border-top:1px solid var(--line);padding-top:12px}</style></head><body><main>
+<nav><a href="https://wadifainfo.github.io/morocco-public-jobs-data/">Morocco public jobs data</a> › concours-open</nav>
+<h1 dir=auto>Morocco open public-service concours: snapshot of 2 November 2026</h1>
+<p>The recruitment exams (concours) still open for applications on 2 November 2026, as listed by Wadifa Info from notices on the official portal emploi-public.ma. Each row links the notice page, in French and in Arabic. For the full history, see <a href="../concours/"><code>data/concours</code></a>.</p>
+<ul>
+<li><strong>File:</strong> <code>open-2026-11-02.csv</code> (UTF-8 with BOM)</li>
+<li><strong>Rows:</strong> 193 concours from 70 employers. 176 notices state the number of posts, 839 in total; the other 17 do not.</li>
+<li><strong>Sorted by:</strong> application deadline, soonest first.</li>
+<li><strong>No personal data:</strong> notices only. No candidate lists.</li>
+<li><strong>Licence:</strong> CC BY 4.0. Credit as "Source : Wadifa Info" with the <code>url</code> of each row you reuse.</li>
+<li><strong>Source:</strong> notices on emploi-public.ma, collected by <a href="https://www.wadifa-info.com/fr/concours-emplois-publics-maroc">Wadifa Info</a>. The same data is available live from the <a href="https://www.wadifa-info.com/en/api">JSON API</a>. Dates in the official notice prevail.</li>
+</ul>
+<h2>Columns</h2>
+<table>
+<thead>
+<tr>
+<th>Column</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>id</code></td>
+<td>Wadifa Info notice id (the page is <code>url</code>)</td>
+</tr>
+<tr>
+<td><code>published</code></td>
+<td>Date the notice appeared on emploi-public.ma (YYYY-MM-DD)</td>
+</tr>
+<tr>
+<td><code>deadline</code></td>
+<td>Application deadline, empty if not given</td>
+</tr>
+<tr>
+<td><code>exam_date</code></td>
+<td>Exam date announced in the notice, empty if not given</td>
+</tr>
+<tr>
+<td><code>employer_type</code></td>
+<td><code>administration_etat</code>, <code>etablissement_public</code> or <code>collectivite_territoriale</code></td>
+</tr>
+<tr>
+<td><code>employer_fr</code>, <code>employer_ar</code></td>
+<td>Employer name as published</td>
+</tr>
+<tr>
+<td><code>grade_fr</code>, <code>grade_ar</code></td>
+<td>Grade (post) opened</td>
+</tr>
+<tr>
+<td><code>posts</code></td>
+<td>Number of posts, empty if the notice does not state it</td>
+</tr>
+<tr>
+<td><code>region_fr</code>, <code>city_fr</code></td>
+<td>Place of work when known</td>
+</tr>
+<tr>
+<td><code>diplomas_fr</code>, <code>specialties_fr</code></td>
+<td>Required diplomas and specialties, separated by <code>;</code></td>
+</tr>
+<tr>
+<td><code>recruitment_type_fr</code></td>
+<td>Regular recruitment or contract</td>
+</tr>
+<tr>
+<td><code>net_monthly_salary_mad</code></td>
+<td>Net monthly pay for the grade from the <a href="https://www.wadifa-info.com/fr/grille-salariale-fonction-publique-maroc">civil-service pay grid</a>, empty when the grade is not on the grid</td>
+</tr>
+<tr>
+<td><code>url</code>, <code>url_ar</code></td>
+<td>Notice page in French and in Arabic, with the link to the official announcement</td>
+</tr>
+</tbody>
+</table>
+<h2>Limits</h2>
+<ul>
+<li>A snapshot: deadlines pass and notices change after the date above. Check the notice before applying.</li>
+<li>Region and city are empty when the notice does not give a single place of work. For a multi-site employer they follow the employer's seat, which may differ from the post.</li>
+<li>Diplomas and specialties are free text from the notices.</li>
+</ul>
+<h2>Files and preview</h2>
+<h2>open-2026-11-02.csv <small>(193 rows)</small></h2><div class=tw><table><tr><th>id</th><th>published</th><th>deadline</th><th>exam_date</th><th>employer_type</th><th>employer_fr</th><th>employer_ar</th><th>grade_fr</th><th>grade_ar</th><th>posts</th><th>region_fr</th><th>city_fr</th><th>diplomas_fr</th><th>specialties_fr</th><th>recruitment_type_fr</th><th>net_monthly_salary_mad</th><th>url</th><th>url_ar</th></tr><tr><td><span dir=auto>126223</span></td><td><span dir=auto>2026-10-13</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>etablissement_public</span></td><td><span dir=auto>Agence pour le Développement Agricole</span></td><td><span dir=auto>وكالة التنمية الفلاحية</span></td><td><span dir=auto>Ingénieur d&#x27;etat et technicien spécialisé</span></td><td><span dir=auto>مهندس الدولة وتقني متخصص</span></td><td><span dir=auto>2</span></td><td><span dir=auto></span></td><td><span dir=auto></span></td><td><span dir=auto>Diplôme d Ingénieur d État</span></td><td><span dir=auto>ingénieur d&#x27;etat, option agroéconomie; technicien spécialisé en gestion des entreprises,…</span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto></span></td><td><a href="https://www.wadifa-info.com/fr/126223/Agence-pour-le-Développement-Agricole-concours-de-recrutement-de-2-Ingénieur-d-etat-et-technicien-spécialisé">link</a></td><td><a href="https://www.wadifa-info.com/126223/وكالة-التنمية-الفلاحية-مباراة-توظيف-2">link</a></td></tr><tr><td><span dir=auto>126233</span></td><td><span dir=auto>2026-10-13</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>etablissement_public</span></td><td><span dir=auto>Agence urbaine de Nador</span></td><td><span dir=auto>الوكالة الحضرية للناظور</span></td><td><span dir=auto>Architecte</span></td><td><span dir=auto>مهندس معماري</span></td><td><span dir=auto>2</span></td><td><span dir=auto>Oriental</span></td><td><span dir=auto>Nador</span></td><td><span dir=auto>Diplôme d Ingénieur d État</span></td><td><span dir=auto></span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto></span></td><td><a href="https://www.wadifa-info.com/fr/126233/Agence-urbaine-de-Nador-concours-de-recrutement-de-2-Architecte">link</a></td><td><a href="https://www.wadifa-info.com/126233/الوكالة-الحضرية-للناظور-مباراة-توظيف-2">link</a></td></tr><tr><td><span dir=auto>126389</span></td><td><span dir=auto>2026-10-19</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>etablissement_public</span></td><td><span dir=auto>Bank Al-Maghrib</span></td><td><span dir=auto>بنك المغرب</span></td><td><span dir=auto>Chargé de suivi dossiers d&#x27;assurances</span></td><td><span dir=auto>مكلف بتتبع ملفات التأمينات</span></td><td><span dir=auto>1</span></td><td><span dir=auto></span></td><td><span dir=auto></span></td><td><span dir=auto>Licence</span></td><td><span dir=auto></span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto></span></td><td><a href="https://www.wadifa-info.com/fr/126389/Bank-Al-Maghrib-concours-de-recrutement-de-1-Chargé-de-suivi-dossiers-d-assurances">link</a></td><td><a href="https://www.wadifa-info.com/126389/بنك-المغرب-مباراة-توظيف-1-مكلف-بتتبع">link</a></td></tr><tr><td><span dir=auto>126399</span></td><td><span dir=auto>2026-10-19</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>administration_etat</span></td><td><span dir=auto>Ministère de l’intérieur -Province de Settat-</span></td><td><span dir=auto>وزارة الداخلية -عمالة إقليم سطات-</span></td><td><span dir=auto>Ingénieur d&#x27;etat 1er grade</span></td><td><span dir=auto>مهندس دولة من الدرجة الأولى</span></td><td><span dir=auto>1</span></td><td><span dir=auto>Casablanca-Settat</span></td><td><span dir=auto>Settat</span></td><td><span dir=auto>Diplôme d Ingénieur d État</span></td><td><span dir=auto>sig</span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto>10902</span></td><td><a href="https://www.wadifa-info.com/fr/126399/Ministère-de-l-intérieur-Province-de-Settat-concours-de-recrutement-de-1-Ingénieur-d-etat-1er-grade">link</a></td><td><a href="https://www.wadifa-info.com/126399/وزارة-الداخلية-عمالة-إقليم-سطات">link</a></td></tr><tr><td><span dir=auto>126400</span></td><td><span dir=auto>2026-10-19</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>administration_etat</span></td><td><span dir=auto>Ministère de l’intérieur -Province de Settat-</span></td><td><span dir=auto>وزارة الداخلية -عمالة إقليم سطات-</span></td><td><span dir=auto>Ingénieur d&#x27;etat 1er grade</span></td><td><span dir=auto>مهندس دولة من الدرجة الأولى</span></td><td><span dir=auto>1</span></td><td><span dir=auto>Casablanca-Settat</span></td><td><span dir=auto>Settat</span></td><td><span dir=auto>Diplôme d Ingénieur d État</span></td><td><span dir=auto>estatistiques et économie appliqué</span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto>10902</span></td><td><a href="https://www.wadifa-info.com/fr/126400/Ministère-de-l-intérieur-Province-de-Settat-concours-de-recrutement-de-1-Ingénieur-d-etat-1er-grade">link</a></td><td><a href="https://www.wadifa-info.com/126400/وزارة-الداخلية-عمالة-إقليم-سطات">link</a></td></tr><tr><td><span dir=auto>126401</span></td><td><span dir=auto>2026-10-19</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>administration_etat</span></td><td><span dir=auto>Ministère de l’intérieur -Province de Settat-</span></td><td><span dir=auto>وزارة الداخلية -عمالة إقليم سطات-</span></td><td><span dir=auto>Ingénieur d&#x27;etat 1er grade</span></td><td><span dir=auto>مهندس دولة من الدرجة الأولى</span></td><td><span dir=auto>1</span></td><td><span dir=auto>Casablanca-Settat</span></td><td><span dir=auto>Settat</span></td><td><span dir=auto>Diplôme d Ingénieur d État</span></td><td><span dir=auto>génie civil</span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto>10902</span></td><td><a href="https://www.wadifa-info.com/fr/126401/Ministère-de-l-intérieur-Province-de-Settat-concours-de-recrutement-de-1-Ingénieur-d-etat-1er-grade">link</a></td><td><a href="https://www.wadifa-info.com/126401/وزارة-الداخلية-عمالة-إقليم-سطات">link</a></td></tr><tr><td><span dir=auto>126402</span></td><td><span dir=auto>2026-10-19</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>administration_etat</span></td><td><span dir=auto>Ministère de l’intérieur -Province de Settat-</span></td><td><span dir=auto>وزارة الداخلية -عمالة إقليم سطات-</span></td><td><span dir=auto>Administrateur 2ème grade</span></td><td><span dir=auto>متصرف من الدرجة الثانية</span></td><td><span dir=auto>1</span></td><td><span dir=auto>Casablanca-Settat</span></td><td><span dir=auto>Settat</span></td><td><span dir=auto>Master</span></td><td><span dir=auto>urbanisme</span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto>9506</span></td><td><a href="https://www.wadifa-info.com/fr/126402/Ministère-de-l-intérieur-Province-de-Settat-concours-de-recrutement-de-1-Administrateur-2ème-grade">link</a></td><td><a href="https://www.wadifa-info.com/126402/وزارة-الداخلية-عمالة-إقليم-سطات">link</a></td></tr><tr><td><span dir=auto>126403</span></td><td><span dir=auto>2026-10-19</span></td><td><span dir=auto>2026-11-02</span></td><td><span dir=auto></span></td><td><span dir=auto>administration_etat</span></td><td><span dir=auto>Ministère de l’intérieur -Province de Settat-</span></td><td><span dir=auto>وزارة الداخلية -عمالة إقليم سطات-</span></td><td><span dir=auto>Administrateur 2ème grade</span></td><td><span dir=auto>متصرف من الدرجة الثانية</span></td><td><span dir=auto>4</span></td><td><span dir=auto>Casablanca-Settat</span></td><td><span dir=auto>Settat</span></td><td><span dir=auto>Master</span></td><td><span dir=auto>audit et contrôle de gestion</span></td><td><span dir=auto>Recrutement régulier</span></td><td><span dir=auto>9506</span></td><td><a href="https://www.wadifa-info.com/fr/126403/Ministère-de-l-intérieur-Province-de-Settat-concours-de-recrutement-de-4-Administrateur-2ème-grade">link</a></td><td><a href="https://www.wadifa-info.com/126403/وزارة-الداخلية-عمالة-إقليم-سطات">link</a></td></tr></table></div><p class=dl><a href="https://github.com/wadifainfo/morocco-public-jobs-data/blob/main/data/concours-open/open-2026-11-02.csv">View open-2026-11-02.csv</a><a href="https://github.com/wadifainfo/morocco-public-jobs-data/raw/main/data/concours-open/open-2026-11-02.csv">Download</a></p>
+<footer>CC BY 4.0 · Source and live pages: <a href="https://www.wadifa-info.com/">Wadifa Info</a> · <a href="https://github.com/wadifainfo/morocco-public-jobs-data/tree/main/data/concours-open">GitHub folder</a> · <a href="https://wadifainfo.github.io/morocco-public-jobs-data/">All datasets</a></footer>
+</main></body></html>

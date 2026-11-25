@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wadifainfo.github.io/morocco-public-jobs-data/sitemap.xml
